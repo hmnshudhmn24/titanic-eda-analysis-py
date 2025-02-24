@@ -18,6 +18,3 @@ This Jupyter Notebook performs an exploratory data analysis (EDA) on the Titanic
 
 ## Dataset Source
 [Titanic Dataset](https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv)
-
-## License
-Free for use and learning purposes.
